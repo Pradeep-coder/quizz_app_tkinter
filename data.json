@@ -1,0 +1,81 @@
+{
+    "question": [
+      "1.] What Indian city is the capital of two states?",
+      "2.] Which city is the capital of India?",
+      "3.] Smallest State of India?",
+      "4.] Where is Taj Mahal Located?",
+      "5.] Which is the largest coffee-producing state of India?",
+      "6.] The World Largest desert is ?",
+      "7.] The common name for the crime of stealing passwords is ___",
+      "8.] If you want to secure a message, use a(n) ________",
+      "9.] Which of the following memories is an optical memory?",
+      "10.] DNS refers to!"
+    ],
+    "answer": [
+      1,
+      2,
+      3,
+      2,
+      3,
+      3,
+      1,
+      4,
+      4,
+      2
+    ],
+    "options": [
+  
+      ["Chandigarh",
+        "Kolkata",
+        "Delhi",
+        "Banglore"
+      ],
+      ["Jaipur",
+        "Delhi",
+        "Chennai",
+        "Mumbai"
+      ],
+      ["Rajasthan",
+        "Punjab",
+        "Goa",
+        "Bihar"
+      ],
+      ["Lucknow",
+        "Agra",
+        "Bhopal",
+        "Delhi"
+      ],
+      ["Kerala",
+       "Tamil Nadu",
+       "Karnataka",
+       "Arunachal Pradesh"
+      ],
+      ["Thar",
+       "Kalahari",
+       "Sahara",
+       "Sonoran" 
+      ],
+      ["Spoofing",
+       "Spooling", 
+       "Identity Theft",  
+       "Hacking"
+      ],
+      ["Cryptology Source",
+       "Encryption Key", 
+       "Encryption Key", 
+       "Cryptosystem"
+      ],
+      [
+        "Floppy Disk",
+        "Bubble Memories",
+        "CDROM",
+        "Core Memories"
+      ],
+      [
+        "Data Number Sequence", 
+        "Digital Network Service", 
+        "Domain Name System", 
+        "Disk Numbering System"
+      ]
+    ]
+  }
